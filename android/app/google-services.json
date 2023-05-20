@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650709578444",
+    "project_id": "adams-timetabling-app",
+    "storage_bucket": "adams-timetabling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650709578444:android:f6c316b6bcbff1048bc869",
+        "android_client_info": {
+          "package_name": "com.example.widget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650709578444-fea8fj1jvl3g6hej9sasfgie4840sdcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOrUWRXWvv8iJfOgKkc6d7XqNvWM11oz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650709578444-fea8fj1jvl3g6hej9sasfgie4840sdcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
